@@ -125,7 +125,7 @@ function App() {
           <ArtikelBild src={image2} alt="skateboard" />
           <ArtikelName>SOFA</ArtikelName>
           <ArtikelInfo>
-            <li>schwarz</li>
+            <li>blau</li>
             <li>gebraucht (1,5 Jahre alt)</li>
             <li>Muster</li>
           </ArtikelInfo>
