@@ -118,12 +118,12 @@ function App() {
           <ArtikelInfo>
             <li>Adidas</li>
             <li>Farbe: Rot</li>
-            <li>Größe: 38</li>
+            <li>Größe: 40</li>
           </ArtikelInfo>
         </ListItem>
         <ListItem>
           <ArtikelBild src={image2} alt="skateboard" />
-          <ArtikelName>SOFA</ArtikelName>
+          <ArtikelName>Skateboard</ArtikelName>
           <ArtikelInfo>
             <li>blau</li>
             <li>gebraucht (1,5 Jahre alt)</li>
