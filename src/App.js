@@ -118,7 +118,7 @@ function App() {
           <ArtikelInfo>
             <li>Adidas</li>
             <li>Farbe: Rot</li>
-            <li>Größe: 40</li>
+            <li>Größe: 41</li>
           </ArtikelInfo>
         </ListItem>
         <ListItem>
