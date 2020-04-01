@@ -64,7 +64,7 @@ const ListItem = styled.section`
   width: 100%;
   display: flex;
   color: black;
-  background-color: #e9eaec;
+  background-color: #f7dda4;
   font-size: em;
   border: 1px solid #f7dda4;
 `;
@@ -102,7 +102,7 @@ function App() {
       <Header>
         <NavBar>
           <ShareLogo src={transparentlogo} alt="logo"></ShareLogo>
-          <NavItem>Sign In</NavItem>
+          <NavItem>Sign in</NavItem>
           <NavItem>Register</NavItem>
           <NavItem>Help</NavItem>
           <NavItem>Contact</NavItem>
@@ -123,7 +123,7 @@ function App() {
         </ListItem>
         <ListItem>
           <ArtikelBild src={image2} alt="skateboard" />
-          <ArtikelName>Skateboard</ArtikelName>
+          <ArtikelName>SOFA</ArtikelName>
           <ArtikelInfo>
             <li>schwarz</li>
             <li>gebraucht (1,5 Jahre alt)</li>
