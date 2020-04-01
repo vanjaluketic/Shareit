@@ -111,7 +111,7 @@ function App() {
       </Header>
 
       <ArtikelListe>
-        1-25 of my items to share:
+        1-50 of my items to share:
         <ListItem>
           <ArtikelBild src={image1} alt="schuhe" />
           <ArtikelName>Schuhe</ArtikelName>
